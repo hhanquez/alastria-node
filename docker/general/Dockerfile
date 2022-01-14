@@ -12,7 +12,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 ################################################
 # ALASTRIA NODE
 ################################################
